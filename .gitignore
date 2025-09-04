@@ -1,0 +1,9 @@
+/bin
+
+.clang-format
+
+*.pd
+*.pdf
+
+*.DS_Store
+._*
