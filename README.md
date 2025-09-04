@@ -1,6 +1,7 @@
-# PIM TPCC
+# PIM-TIDE
 
-This version aims to create a TM system that works across multiple DPUs of the UPMEM hardware
+PIM-TIDE is a transaction execution platform designed specifically for PIM architectures. PIM-TIDE provides a lightweight software-based coordination mechanism that enables transactions to span multiple DPUs while ensuring consistency, atomicity, and isolation.
+
 * Transactions do not require data from remote DPUs
 * Transactions are generated in the DPUs
 * Transactions can be executed in 2 modes:
